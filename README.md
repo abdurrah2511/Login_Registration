@@ -134,7 +134,7 @@ mern-auth-app/
 
 ## 📬 Contact
 If you like this project or want to collaborate:
-GitHub: https://github.com/your-username
+GitHub: https://github.com/abdurrah2511
 
 ## ⭐ Give a Star
 If you found this project helpful, consider giving it a ⭐
