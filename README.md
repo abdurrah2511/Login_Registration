@@ -106,11 +106,11 @@ mern-auth-app/
 ### 🏠 Home Initial Page
 ![HomeBefore](./image/HomeBefore.png)
 
-### 🃏 Login Page
-![Login](./image/Login.png)
-
 ### 🃏 Register Page
 ![Register](./image/Register.png)
+
+### 🃏 Login Page
+![Login](./image/Login.png)
 
 ### 🛒 Home After Page
 ![HomeAfter](./image/HomeAfter.png)
@@ -133,8 +133,8 @@ mern-auth-app/
 - MongoDB database operations
 
 ## 📬 Contact
-- If you like this project or want to collaborate:
-- GitHub: https://github.com/your-username
+If you like this project or want to collaborate:
+GitHub: https://github.com/your-username
 
 ## ⭐ Give a Star
 If you found this project helpful, consider giving it a ⭐
