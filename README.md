@@ -30,7 +30,6 @@ A simple full-stack authentication system built with the MERN stack where users 
 ### Frontend
 - React.js
 - React Router DOM
-- Axios
 - CSS
 
 ### Backend
@@ -38,7 +37,7 @@ A simple full-stack authentication system built with the MERN stack where users 
 - Express.js
 
 ### Database
-- MongoDB (MongoDB Atlas)
+- MongoDB
 
 ### Authentication
 - JWT (JSON Web Token)
@@ -56,19 +55,17 @@ A simple full-stack authentication system built with the MERN stack where users 
 mern-auth-app/
 │
 ├── backend/
+│ ├── middleware/
 │ ├── models/
 │ ├── routes/
-│ ├── middleware/
-│ ├── controllers/
 │ └── server.js
 │
 ├── frontend/
 │ ├── src/
-│ │ ├── pages/
 │ │ ├── components/
-│ │ ├── context/
+│ │ ├── styles/
 │ │ ├── App.jsx
-│ │ └── main.jsx
+│ └ └── main.jsx
 │
 └── README.md
 
